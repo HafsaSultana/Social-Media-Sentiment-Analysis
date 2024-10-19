@@ -89,13 +89,13 @@ Potential improvements for future versions of this project include:
 ## Installation
 To get started, clone the repository and install the necessary libraries.
 
+## Install dependencies:
+```bash
+pip install -r requirements.txt
+
 ### Clone the repository:
 ```bash
 git clone https://github.com/HafsaSultana/Social-Media-Sentiment-Analysis.git
 cd Social-Media-Sentiment-Analysis
-
-## Install dependencies:
-pip install -r requirements.txt
-
 
 
