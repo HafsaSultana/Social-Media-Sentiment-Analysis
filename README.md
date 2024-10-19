@@ -90,7 +90,6 @@ Potential improvements for future versions of this project include:
 To get started, clone the repository and install the necessary libraries.
 
 ## Install dependencies:
-```bash
 pip install -r requirements.txt
 
 ### Clone the repository:
